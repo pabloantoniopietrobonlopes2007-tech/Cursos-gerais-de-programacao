@@ -1,0 +1,1 @@
+minha_chave_api = "chave api"
